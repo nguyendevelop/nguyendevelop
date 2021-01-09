@@ -1,17 +1,17 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Hemanth</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/nguyendevelop">Nguyen Develop</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/11534375/hemanth-kollipara)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/nguyendevelop/)](https://github.com/nguyendevelop/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyendevelop/)](https://www.linkedin.com/in/nguyendevelop)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/nguyendevelop)](https://www.hackerrank.com/nguyendevelop)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/nguyendevelop)](https://stackoverflow.com/users/nguyendevelop)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.nguyendevelop@hotmail.com)](mailto:defcon.nguyendevelop@hotmail.com)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/nguyendevelop/articles)](https://auth.geeksforgeeks.org/user/nguyendevelop/articles)
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing (...). I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
@@ -31,7 +31,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://github.com/Defcon27/Defcon27/blob/master/Hemanth%20Kollipara.pdf)
+- 📙 Check out my [Resume](https://github.com/nguyendevelop/nguyendevelop/blob/master/nguyendevelop.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">and watch a lot Sci-Fi Movies🎬
 
 
@@ -62,30 +62,30 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Defcon27&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defcon27&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendevelop&show_icons=true&line_height=21" alt="Nguyendevelop's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevelop&theme=default&line_height=27&layout=compact" />
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+![Profile Views](https://nguyendevelop.github.io)
 
 
 <details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true" />
+<a href="https://github.com/nguyendevelop/Machine-Learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevelop&repo=Machine-Learning&show_owner=true" />
 </a>&ensp;
 <a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevelop&repo=Deep-Learning&show_owner=true" />
 </a>
 </p>
 </details>
 
 
 
-<!--
+
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 pic on right
@@ -116,5 +116,3 @@ language badges:
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-
--->
