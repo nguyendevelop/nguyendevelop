@@ -67,8 +67,6 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing (...). I'm 
 </p>
 
 
-![Profile Views](https://nguyendevelop.github.io)
-
 
 <details>
 <summary> 💥 Working on </summary>
@@ -93,8 +91,8 @@ pic on right
 
  
 views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
+![Profile Views](https://komarev.com/ghpvc/?username=nguyendevelop)
+[![HitCount](http://hits.dwyl.com/nguyendevelop/.svg)](http://hits.dwyl.com/nguyendevelop)
 
 
 social modded badge
