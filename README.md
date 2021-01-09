@@ -62,8 +62,8 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing (...). I'm 
 
 <p align="center">
    <i>
-     "If You Think Math is Hard Try Web Design" <br>
-                                         -Trish Parr
+     "Experience is my hobby" <br>
+                                         -Nguyen Develop-
   </i>
 </p>   
 
