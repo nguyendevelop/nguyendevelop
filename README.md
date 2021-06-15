@@ -43,6 +43,11 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing (...). I'm 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevelop&theme=default&line_height=27&layout=compact" />
 </p>
 
+ ### My certifications:
+<i align="center">
+I'm updating
+</i>
+
  ### Languages and Tools:
  
 <p align="center">
