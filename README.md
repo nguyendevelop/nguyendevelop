@@ -44,9 +44,11 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing (...). I'm 
 </p>
 
  ### My certifications:
-<i align="center">
+<p align="center">
+   <i>
 I'm updating
-</i>
+   </i>
+</p>
 
  ### Languages and Tools:
  
