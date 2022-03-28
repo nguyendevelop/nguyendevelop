@@ -20,8 +20,8 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I'm currently not working on any projects
-- 🌱 I’m currently learning Swift <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🌱 I’m currently learning Swift <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30">
+<img width="490" height="270" src="sss.svg" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
@@ -29,9 +29,8 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
-- 💬 Ask me about Python, ML, CV, Raspi
+- 💬 Ask me about Swift
 - 📙 Check out my [Resume](https://github.com/nguyendevelop/nguyendevelop/blob/master/nguyendevelop.pdf)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">and watch a lot Sci-Fi Movies🎬
 
