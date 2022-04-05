@@ -2,7 +2,7 @@
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nguyendevelop)
-[![HitCount](https://hits.dwyl.com/nguyendevelop/nguyendevelop.svg?style=flat)](http://hits.dwyl.com/nguyendevelop/nguyendevelop)
+[![HitCount](https://hits.dwyl.com/nguyendevelop/nguyendevelop.svg?style=flat-square&show=unique)](http://hits.dwyl.com/nguyendevelop/nguyendevelop)
 
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
