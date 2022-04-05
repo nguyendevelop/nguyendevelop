@@ -20,14 +20,10 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I'm currently not working on any projects
-- 🌱 I’m currently learning Swift <img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30">
+- 🌱 I’m currently learning Swift <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="30">
 <img width="490" height="270" src="sss.svg" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 
-  - 🖼 
-  - 🛠 
-  - 🤖 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on 📊 🖼 🛠 🤖 
 - 📝 I write technical blogs and articles
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Swift
