@@ -23,7 +23,7 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 - 🌱 I’m currently learning Swift <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" width="30">
 <img width="490" height="270" src="sss.svg" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on 📊 🖼 🛠 🤖 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I write technical blogs and articles
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Swift
@@ -32,13 +32,13 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 <br>
 <br>
 
-### 🚀 Quick Stats
+### 📊 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendevelop&show_icons=true&line_height=21" alt="Nguyendevelop's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevelop&theme=default&line_height=27&layout=compact" />
 </p>
 
- ### 🖼 My certifications
+ ### 🚀 My certifications
 <p align="center">
    <img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate/img2.png" width=400">
    <tab><img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate.png" width=241"> 
