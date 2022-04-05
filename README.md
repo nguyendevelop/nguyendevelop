@@ -24,10 +24,10 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 <img width="490" height="270" src="sss.svg" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
+  - 📊 
+  - 🖼 
+  - 🛠 
+  - 🤖 
 - 📝 I write technical blogs and articles
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Swift
@@ -44,9 +44,8 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 
  ### My certifications:
 <p align="center">
-   <i>
-I'm updating
-   </i>
+   <img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate/img2.png" width=400">
+   <img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate.png" width=252"> 
 </p>
 
  ### Languages and Tools:
