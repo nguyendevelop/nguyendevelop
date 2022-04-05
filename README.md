@@ -7,7 +7,7 @@
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
-<a href="https://www.linkedin.com/in/nguyendevelop/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/nguyendevelop"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://goo.gl/lyEq0T"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/nguyendevelop"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:nguyendevelop@hotmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+<a href="https://www.linkedin.com/in/nguyendevelop/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/nguyendevelop"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://goo.gl/lyEq0T"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/nguyendevelop"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:nguyendevelop@hotmail.com"><img src="https://freepngimg.com/download/symbol/64785-icons-envelope-computer-mail-message-email.png" width="40"></a>|
 |--|--|--|--|--|
 
 
@@ -32,9 +32,9 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Swift
 - 📙 Check out my [Resume](https://github.com/nguyendevelop/nguyendevelop/blob/master/nguyendevelop.pdf)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and Space<img src="https://emojis.slackmojis.com/emojis/images/1518001209/3505/spacex.jpg" width="30">and watch a lot Sci-Fi Movies🎬
 
-
+<br>
+<br>
 
 ### 🚀 Quick Stats
 <p align="center">
@@ -42,13 +42,13 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevelop&theme=default&line_height=27&layout=compact" />
 </p>
 
- ### My certifications:
+ ### 🖼 My certifications
 <p align="center">
    <img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate/img2.png" width=400">
-   <img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate.png" width=252"> 
+   <tab><img align="center" src="https://github.com/nguyendevelop/nguyendevelop.github.io/blob/master/images/certificate.png" width=241"> 
 </p>
 
- ### Languages and Tools:
+ ### 🛠 Languages and Tools
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
@@ -58,10 +58,6 @@ I'm an **Undergrad Student🎓 [@UDN](https://www.udn.vn)** pursuing BrSE (Bridg
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
 </p>
-
-
-<br>
-<br>
 
 --- 
 
