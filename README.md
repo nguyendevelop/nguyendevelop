@@ -5,7 +5,7 @@
 [![HitCount](https://hits.dwyl.com/nguyendevelop/nguyendevelop.svg?style=flat-square&show=unique)](http://hits.dwyl.com/nguyendevelop/nguyendevelop)
 
 
-### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="132px" height="32px">
  
 <a href="https://www.linkedin.com/in/nguyendevelop/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/nguyendevelop"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://goo.gl/lyEq0T"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/nguyendevelop.official"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:nguyendevelop@hotmail.com"><img src="https://freepngimg.com/download/symbol/64785-icons-envelope-computer-mail-message-email.png" width="40"></a>|
 |--|--|--|--|--|
